@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585833035 source:e:\programming\c projects\3x3-matrix-multiplation\main.c
+	<stdio.h>
+	<windows.h>
+
